@@ -1,4 +1,4 @@
-# Resumo
+# Resumo 📖
 Este estudo apresenta e compara os frameworks PyTorch e TensorFlow para
 classificação automática de arritmias cardíacas usando o conjunto de dados de
 diagnóstico de eletrocardiograma PTB. Serão avaliados indicadores de acurácia,
