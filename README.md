@@ -1,5 +1,7 @@
-# Resumo 📖
-Este estudo apresenta e compara os frameworks PyTorch e TensorFlow para
+# **Classificação de arritmias cardíacas com redes neurais artificiais: um estudo comparativo entre PyTorch e Tensorflow**
+
+## Resumo 📖
+* Este estudo apresenta e compara os frameworks PyTorch e TensorFlow para
 classificação automática de arritmias cardíacas usando o conjunto de dados de
 diagnóstico de eletrocardiograma PTB. Serão avaliados indicadores de acurácia,
 precisão, recall e f1-Score, além da performance computacional de treinamento. Foram
